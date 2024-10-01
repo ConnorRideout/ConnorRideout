@@ -6,7 +6,7 @@ My name is Connor Rideout. I'm a software engineer who is passionate about solvi
 
 ---
 
-Feel free to reach me through my [LinkedIn](https://www.linkedin.com/in/connor-rideout-36b019240/) for any business inquiries or for help with any of my repos!
+Feel free to reach me through my [LinkedIn](https://www.linkedin.com/in/connor-rideout/) for any business inquiries or for help with any of my repos!
 
 <!--
 **ConnorRideout/ConnorRideout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
