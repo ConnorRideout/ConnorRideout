@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connor Rideout</h1>
 <h3 align="center">A software engineer who is passionate about solving puzzles, maintaining readability, and truly understanding why things work the way they do</h3>
 
-- 🔭 I’m currently working on **the BloomTech Full-stack bootcamp**
+- 🔭 I’m a graduate of **the BloomTech Full-stack Web Development bootcamp**
 
 - 🌱 I’m currently learning **JavaScript, React.js, and Node.js servers with Express.js, Knex.js, and SQLite3**
 
